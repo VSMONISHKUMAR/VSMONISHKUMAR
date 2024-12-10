@@ -15,7 +15,8 @@ I'm a passionate on Artifecial Intelligence and Machine Learning  with a strong 
 
 💬 Let's Connect:
 📫 You can reach me via vsmonishkumar@gmail.com
-📱 Connect with me on V.S.Monish Kumar
+📱 Connect with me on V.S.Monish Kumar 
+🔗https://vsmonishkumarportfolio.netlify.app/
 
 
 🤝 I'm always open to collaboration, so feel free to reach out if you have exciting opportunities or if you'd like to work together on something awesome!
